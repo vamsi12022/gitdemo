@@ -4,3 +4,4 @@ read -p "Y value: " y
 echo "$((x+y))"
 echo "$((x-y))"
 echo "$((x/y))"
+echo "$((x%2))"
