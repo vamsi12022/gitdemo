@@ -1,1 +1,17 @@
-new1
+Learn Python Programming - course is curated for Beginner to Master.
+
+Every topic is covered in depth with practical examples.
+
+100+ Challenges to make you expert in Problem Solving using Python
+
+By the end of the course you will understand Python extremely well and will be able to build your own Python applications.
+
+Resources are available for every lectures.
+
+Answer Quiz at the end of major topics, to feel confident.
+
+Do Projects using Tkinter, GUI Programming.
+
+Use Laptop or PC to learn and practice Python.
+
+IDLE is used for demonstrating the concepts and PyCharm is used for Developing Programs. You can use any IDE, of your choice.
